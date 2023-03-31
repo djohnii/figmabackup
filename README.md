@@ -1,4 +1,4 @@
-# About
+# About1
 Here are python scripts for simplifying design review and sharing design work. Scripts download updated screens from Zeplin or/and Figma to a new folder with the current date. Useful to check changes in several projects.
 
 Imagine: you have several projects you need to check. 
